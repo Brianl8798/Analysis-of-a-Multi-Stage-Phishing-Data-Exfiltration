@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-To perform end-to-end analysis of a sophisticated phishing campaign by correlating telemetry across multiple log sources, extracting key indicators of compromise (IOCs), and formulating defensive recommendations to harden the enterprise environment.
+To execute a full incident response lifecycle by investigating a multi-vector phishing campaign within a controlled cyber range, analyzing system and application logs to attribute adversary TTPs to the MITRE ATT&CK® framework, and engineering definitive, actionable countermeasures.
 <br />
 
 
