@@ -1,4 +1,4 @@
-# Analysis-of-a-Multi-Stage-Phishing-Data-Exfiltration
+# Analysis of a Multi-Stage Phishing Data Exfiltration
 ![KQL](https://img.shields.io/badge/KQL-red)
 
 
