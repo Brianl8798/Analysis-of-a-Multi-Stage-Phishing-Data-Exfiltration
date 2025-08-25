@@ -9,7 +9,8 @@ To execute a full incident response lifecycle by investigating a multi-vector ph
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>KQL</b> 
+- <b>KQL</b>
+- <b>Azure Data Explorer</b> 
 
 <h2>Environments Used </h2>
 
